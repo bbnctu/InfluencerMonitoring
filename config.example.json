@@ -1,0 +1,17 @@
+{
+  "email": {
+    "sender_account": "your_email@gmail.com",
+    "sender_password": "your_app_password"
+  },
+  "influencers": [
+    {
+      "id": "minazukimaya",
+      "platform": "ptt",
+      "board": "Stock",
+      "frequency_minutes": 10,
+      "receivers": [
+        "receiver@example.com"
+      ]
+    }
+  ]
+}

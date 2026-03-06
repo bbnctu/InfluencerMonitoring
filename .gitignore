@@ -1,0 +1,17 @@
+# Environments
+venv/
+env/
+.env
+
+# Python compilation cache
+__pycache__/
+*.pyc
+
+# Local config & tracking data
+config.json
+tracked_article.txt
+
+# Editor/OS specific
+.vscode/
+.idea/
+.DS_Store
