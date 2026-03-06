@@ -1,0 +1,18 @@
+2026-03-06 15:03:36,078 - __main__ - INFO - Starting Influencer Monitoring System...
+2026-03-06 15:03:36,078 - __main__ - INFO - Scheduling check for minazukimaya every 1 minutes.
+2026-03-06 15:03:36,078 - __main__ - INFO - Checking updates for minazukimaya on ptt - Stock
+2026-03-06 15:03:36,078 - src.trackers.ptt - INFO - Fetching: https://www.ptt.cc/bbs/Stock/search?q=author:minazukimaya
+2026-03-06 15:03:39,873 - __main__ - INFO - Scheduling check for ceca every 1 minutes.
+2026-03-06 15:03:39,873 - __main__ - INFO - Checking updates for ceca on ptt - home-sale
+2026-03-06 15:03:39,873 - src.trackers.ptt - INFO - Fetching: https://www.ptt.cc/bbs/home-sale/search?q=author:ceca
+2026-03-06 15:03:43,370 - __main__ - INFO - Scheduling check for mfcke every 1 minutes.
+2026-03-06 15:03:43,370 - __main__ - INFO - Checking updates for mfcke on ptt - home-sale
+2026-03-06 15:03:43,372 - src.trackers.ptt - INFO - Fetching: https://www.ptt.cc/bbs/home-sale/search?q=author:mfcke
+2026-03-06 15:03:46,322 - __main__ - INFO - Scheduler is running. Press Ctrl+C to exit.
+2026-03-06 15:04:36,346 - __main__ - INFO - Checking updates for minazukimaya on ptt - Stock
+2026-03-06 15:04:36,347 - src.trackers.ptt - INFO - Fetching: https://www.ptt.cc/bbs/Stock/search?q=author:minazukimaya
+2026-03-06 15:04:42,462 - __main__ - INFO - Checking updates for ceca on ptt - home-sale
+2026-03-06 15:04:42,464 - src.trackers.ptt - INFO - Fetching: https://www.ptt.cc/bbs/home-sale/search?q=author:ceca
+2026-03-06 15:04:47,220 - __main__ - INFO - Checking updates for mfcke on ptt - home-sale
+2026-03-06 15:04:47,220 - src.trackers.ptt - INFO - Fetching: https://www.ptt.cc/bbs/home-sale/search?q=author:mfcke
+2026-03-06 15:05:19,289 - __main__ - INFO - System gracefully stopped by user.

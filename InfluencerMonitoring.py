@@ -11,7 +11,11 @@ from src.trackers.ptt import PttTracker
 # 設定 Logger
 logging.basicConfig(
     level=logging.INFO,
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.FileHandler("monitor.log", encoding='utf-8'),
+        logging.StreamHandler()
+    ]
 )
 logger = logging.getLogger(__name__)
 
